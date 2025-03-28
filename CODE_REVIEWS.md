@@ -26,7 +26,7 @@ At our company, we use code reviews to ensure our codebase remains clean, secure
 
 ---
 
-## 🚫 Bad Practices (Don'ts)
+##  Bad Practices (Don'ts)
 
 -  Submitting huge PRs that are difficult to review
 -  Ignoring the PR description or context
