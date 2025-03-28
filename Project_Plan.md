@@ -115,10 +115,41 @@ Our final handbook will include:
 5. **Conclusion**  
    - Key takeaways, final thoughts  
 
-6. **Team Work Table**  
-   - Summarize who contributed what  
+## 6. Team Work Table 
+
+Below is an example format. We’ll fill it out once the work is done:
+
+| **Team Member** | **Contributions**                                                                                                 | **Verified By**      |
+|-----------------|--------------------------------------------------------------------------------------------------------------------|----------------------|
+| Adam       | - Set up README<br>- Drafted Team Structure section<br>- Co-wrote Testing Practices section          | Adam and Sophie          |
+| Sophie         |  - Set up GitHub repo<br>- Created diagrams & visuals<br>- Co-wrote Secure Practices & Task Estimation<br>             | Sophie and Whitney      |
+| Whitney       | - Wrote Project Plan<br>- Co-wrote Task Estimation <br>- Created final table                      | Whitney and Sophie          |
+
+---
 
 7. **Reflection**  
    - “What we would do differently next time” 
 
+## 8. Risks & Mitigation
+
+- **Scheduling Conflicts**: We’ll hold frequent check-ins to ensure everyone is on track.  
+- **Git Conflicts**: Resolve merge conflicts by communicating on Whatsapp and carefully reviewing each PR before merging.  
+- **Scope Creep**: Stick to the agreed outline (3 main topics, each 500–1000 words). Avoid adding extra features unless we have time.  
+
 ---
+
+## 9. Final Submission
+
+- Ensure the GitHub repository is **public** by the due date.  
+- Double-check that the **README.md** clearly links to all sections (introduction, each topic, conclusion).  
+- Submit the GitHub repository link to the instructor by **30th March 2025**.
+
+---
+
+## 10. References
+
+Use TUD’s preferred reference style
+
+---
+
+*This plan can be updated in real time as we progress. All changes will be documented through GitHub Issues, commits, and pull requests.*
