@@ -24,7 +24,7 @@ This handbook covers three essential areas of software quality:
 
 Each section includes:
 - A short introduction to the topic
-- Easy-to-read do’s and don’ts
+- Easy to read do's and dont's
 - Diagrams where helpful
 - Links to real-world articles and personal blog posts from experienced developers
 
