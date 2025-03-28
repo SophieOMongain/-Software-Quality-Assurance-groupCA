@@ -40,7 +40,7 @@ These are some of the most common — and dangerous — security issues that dev
 - ** Insecure File Uploads**  
   Accepting uploaded files without checking type, size, and content — leading to remote code execution or malware.
 
-- **🗝 Hardcoded Secrets**  
+- ** Hardcoded Secrets**  
   Including API keys, passwords, or tokens in source code or config files.
 
 - ** Using Outdated or Vulnerable Dependencies**  
