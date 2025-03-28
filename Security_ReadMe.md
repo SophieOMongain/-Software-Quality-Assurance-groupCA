@@ -20,6 +20,6 @@ This section of the Software Quality Handbook outlines best practices for writin
 ---
 
 ##  Main File
-- [`SECURE_CODING.md`](./SECURE_CODING.md) – Full guide on secure development practices
+- [`SECURITY.md`](./SECURE_CODING.md) – Full guide on secure development practices
 
 
