@@ -26,7 +26,8 @@ The final deliverable will be a **Markdown-based handbook** stored in our **publ
 
 **Our 3 team members** 
 
-| **Name**        | **Role**                                    |-----------------|----------------------------------------------
+| **Name**        | **Role**                                   
+|-----------------|----------------------------------------------
 | Adam | - Contributor & Editor          
 | Sophie  | - Contributor & Editor                       
 | Whitney | - Contributor & Editor                      
