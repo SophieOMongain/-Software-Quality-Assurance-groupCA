@@ -1,77 +1,49 @@
-# Task Estimation in Agile Teams: Roles and Communication
+# **Task Estimation in Scrum**
 
-## Introduction
-Task estimation is vital for agile teams, enabling accurate sprint planning, balanced workloads, and effective risk management. In Scrum, clear role definitions and robust communication patterns are essential to achieve shared understanding and realistic estimates. This guide explains how different roles contribute to task estimation and highlights effective communication practices.
-
----
-
-## Roles in Task Estimation
-
-### **Developers/Team Members**
-- **Active Participation:**  
-  - Engage in estimation sessions (e.g., Planning Poker) to share expert insights.
-- **Task Breakdown:**  
-  - Decompose complex user stories into smaller, manageable tasks.
-- **Feedback Loop:**  
-  - Provide input on past estimates to refine future planning.
-
-### **Scrum Masters**
-- **Facilitator of Communication:**  
-  - Structure and timebox estimation meetings to keep discussions focused.
-- **Barrier Removal:**  
-  - Clarify uncertainties and ensure all team questions are addressed.
-- **Historical Analysis:**  
-  - Share past sprint data and velocity to inform current estimates.
-
-### **Product Owners**
-- **Clarification Provider:**  
-  - Offer detailed insights into user stories and acceptance criteria.
-- **Prioritization:**  
-  - Help rank tasks by business value to guide estimation focus.
-- **Stakeholder Liaison:**  
-  - Communicate estimation outcomes and set realistic delivery expectations.
+**This section of the Software Quality Handbook outlines best practices for estimating tasks and user stories within a Scrum framework, with a focus on roles in agile teams and effective communication patterns. This approach ensures realistic sprint planning and continuous improvement.**
 
 ---
 
-## Communication Patterns in Estimation
-
-### **Open and Inclusive Discussions**
-- **Collaborative Dialogue:**  
-  - Encourage every team member to share opinions and concerns.
-- **Constructive Feedback:**  
-  - Use techniques like Planning Poker to facilitate consensus and reduce bias.
-- **Consensus Building:**  
-  - Ensure that estimates reflect a shared understanding across the team.
-
-### **Structured Meetings**
-- **Timeboxing:**  
-  - Set clear time limits to keep estimation sessions efficient.
-- **Clear Agenda:**  
-  - Outline the user stories to be estimated and specify discussion points.
-- **Action Items:**  
-  - Document decisions and follow-ups for unresolved issues.
-
-### **Documentation and Transparency**
-- **Record Assumptions:**  
-  - Document all assumptions, uncertainties, and key discussion points.
-- **Accessible Records:**  
-  - Maintain transparent records of estimates and historical performance.
-- **Iterative Improvement:**  
-  - Regularly review feedback from retrospectives to refine the process.
-
----
-
-## Common Pitfalls to Avoid
-- **Lack of Participation:**  
-  - Excluding team members can lead to skewed estimates.
-- **Miscommunication:**  
-  - Vague requirements or unclear feedback can result in inaccurate estimates.
-- **Rigid Meeting Structures:**  
-  - Inflexible formats may hinder open discussion and timely feedback.
-- **Ignoring Historical Data:**  
-  - Failing to leverage past sprint data can prevent improvement in estimation accuracy.
+## **What's Included**
+- **Roles in Agile Teams**
+  - **Developers/Team Members**
+    - Participate actively in estimation sessions (e.g., Planning Poker)
+    - Break down large user stories into manageable tasks
+    - Provide feedback and share insights on task complexity
+  - **Scrum Masters**
+    - Facilitate and timebox estimation meetings
+    - Remove blockers and clarify uncertainties during discussions
+    - Share historical sprint data to guide current estimates
+  - **Product Owners**
+    - Clarify user stories and define acceptance criteria
+    - Prioritize tasks based on business value and urgency
+    - Communicate expectations and deliverables to the team
+- **Communication Patterns**
+  - **Open Dialogue**
+    - Encourage contributions from every team member
+    - Use techniques (e.g., Planning Poker) to foster consensus
+  - **Structured Meetings**
+    - Set clear agendas for estimation sessions
+    - Timebox discussions to keep them efficient and focused
+  - **Documentation & Transparency**
+    - Record assumptions, uncertainties, and decisions
+    - Maintain accessible records of estimates and revisions
+- **Sprint Planning**
+  - Utilize refined estimates to select sprint backlog items
+  - Balance team capacity with task complexity
+  - Adjust sprint plans based on historical velocity and feedback
+- **Good Practices & Bad Practices**
+  - **Good Practices:** Collaborative estimation, task breakdown, iterative refinement
+  - **Bad Practices:** Over-precision, excluding key team members, rushing through sessions
 
 ---
 
-## Conclusion
-Effective task estimation in agile teams relies on well-defined roles and clear, open communication. By actively engaging developers, facilitating discussions through Scrum Masters, and providing clarity with Product Owners, teams can create realistic estimates that lead to successful sprint planning and continuous improvement.
+## **Who It's For**
+- **Scrum Teams & Agile Practitioners:** Those using Scrum or agile methodologies.
+- **Developers & Project Managers:** Individuals involved in sprint planning and task allocation.
+- **Improvement Seekers:** Teams aiming to enhance their estimation techniques and project delivery.
+
+---
+
+## **Main File**
+**TASK_ESTIMATION.md** – Full guide on task estimation in Scrum.
