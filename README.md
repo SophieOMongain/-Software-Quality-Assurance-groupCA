@@ -1,5 +1,5 @@
 
-# 🛠 Software Quality Handbook
+#  Software Quality Handbook
 
 Welcome to the Software Quality Handbook for our engineering team! This guide outlines the best practices we follow to ensure that the software we build is reliable, secure, and maintainable.
 
