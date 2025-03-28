@@ -23,7 +23,9 @@ This section of the Software Quality Handbook outlines best practices for writin
 - [`SECURE_CODING.md`](./SECURE_CODING.md) – Full guide on secure development practices
 
 
-Here are my changes and what i added. Let me know if this is okay. 
+Here are my changes and what i added. Let me know if this is okay.  
+
+Can you check if the link works and if they dont remove them?
 --------------------------------------------------------------------------------------------
 # Security and Secure Coding Practices
 
