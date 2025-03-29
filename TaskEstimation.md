@@ -123,14 +123,21 @@ This section of the **Software Quality Handbook** outlines best practices for es
 
 ##  References and Further Reading
 
-1. **(https://www.atlassian.com/agile/project-management/estimation)**
+1. **https://www.atlassian.com/agile/project-management/estimation**
+
 Highlights the importance of collaborative input and structured meetings and discusses various agile estimation techniques.
 
+
 2. **https://stateofagile.com/**
+   
 Survey based on the best and common practices and successes.
 
+
 3. **https://www.agilealliance.org/**
+   
 Shares practical estimation methods and real-life experiences from agile teams, emphasizing collaboration and iterative improvement in estimation
 
+
 4. **https://www.infoq.com/agile-estimation/**
+   
 Articles and interviews with agile practitioners discussing common pitfalls and effective workflows for agile estimation, offering a range of opinions from the field
