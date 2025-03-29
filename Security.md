@@ -58,5 +58,5 @@ Avoiding these flaws doesn't require perfection — it requires awareness, good 
 
 Note for Sophie! 
 Further points to discuss: 
-How to ensure security in the development lifecycle 
-Do's and dont's of security practices :) 
+- How to ensure security in the development lifecycle 
+- Do's and dont's of security practices :) 
