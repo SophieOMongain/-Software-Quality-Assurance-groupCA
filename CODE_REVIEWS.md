@@ -68,25 +68,21 @@ At our company, we use code reviews to ensure our codebase remains clean, secure
 
 ---
 
-##  References and Further Reading
+---
 
-1. **"How to Conduct a Great Code Review" – Stack Overflow Blog**  
-   *Covers real developer experiences of what makes a review helpful or toxic.*  
-   https://stackoverflow.blog/2019/09/30/how-to-conduct-a-code-review/
+## 🔗 References and Further Reading
 
-2. **"How We Do Code Reviews at Google" – Google Engineering Practices**  
-   *Based on real internal processes at Google, including how they train engineers to review constructively.*  
-   https://google.github.io/eng-practices/review/
+1. **[The Unseen Ripple Effect of Code Reviews on Developer Experience – Hatica](https://www.hatica.io/blog/how-code-reviews-impact-developer-experience/)**  
+   Discusses how code reviews affect developer morale, growth, and team collaboration, based on real team experiences.
 
-3. **"The Human Side of Code Reviews" – FreeCodeCamp**  
-   *A candid write-up about interpersonal dynamics and communication challenges in team reviews.*  
-   https://www.freecodecamp.org/news/human-side-of-code-reviews/
+2. **[Code Reviews: The Good, The Bad & The Ugh – LinkedIn Blog by Nic Pegg](https://www.linkedin.com/pulse/code-reviews-good-bad-ugh-nic-pegg-74q3c)**  
+   A personal and humorous take on the ups and downs of code reviews in modern software teams.
 
-4. **"Code Review Etiquette" – Thoughtbot Blog**  
-   *Thoughtbot shares their team’s practical etiquette and feedback strategies for maintaining trust and quality.*  
-   https://thoughtbot.com/blog/code-review-etiquette
+3. **[How to Review Code Effectively: A GitHub Staff Engineer's Philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)**  
+   Practical advice from a GitHub engineer, with a focus on constructive feedback and avoiding common review pitfalls.
 
-5. **"Myths and Misconceptions of Code Reviews" – Dev.to by Josh Branchaud**  
-   *Real-world observations on what code reviews are *not* supposed to be, written by a senior developer.*  
-   https://dev.to/jbranchaud/myths-and-misconceptions-of-code-reviews-5e0o
+4. **[How I Review Code as a Senior Developer – Medium by Vinh Nguyen](https://medium.com/@vndpal/how-i-review-code-as-a-senior-developer-for-better-results-47e979393483)**  
+   Personal techniques used by a senior dev to give meaningful feedback and support junior developers.
 
+5. **[Code Review Best Practices – Palantir Blog](https://blog.palantir.com/code-review-best-practices-19e02780015f)**  
+   Best practices rooted in real engineering culture at Palantir, including how to balance feedback and mentorship.
