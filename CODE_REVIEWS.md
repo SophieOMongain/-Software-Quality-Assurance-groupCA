@@ -64,3 +64,29 @@ At our company, we use code reviews to ensure our codebase remains clean, secure
   - Developers submit PRs and reviewers provide feedback at their own pace.
   - Communication happens via inline comments and follow-up discussions on the PR.
   - This workflow is flexible and accommodates distributed teams across different time zones.
+ 
+
+---
+
+##  References and Further Reading
+
+1. **"How to Conduct a Great Code Review" – Stack Overflow Blog**  
+   *Covers real developer experiences of what makes a review helpful or toxic.*  
+   https://stackoverflow.blog/2019/09/30/how-to-conduct-a-code-review/
+
+2. **"How We Do Code Reviews at Google" – Google Engineering Practices**  
+   *Based on real internal processes at Google, including how they train engineers to review constructively.*  
+   https://google.github.io/eng-practices/review/
+
+3. **"The Human Side of Code Reviews" – FreeCodeCamp**  
+   *A candid write-up about interpersonal dynamics and communication challenges in team reviews.*  
+   https://www.freecodecamp.org/news/human-side-of-code-reviews/
+
+4. **"Code Review Etiquette" – Thoughtbot Blog**  
+   *Thoughtbot shares their team’s practical etiquette and feedback strategies for maintaining trust and quality.*  
+   https://thoughtbot.com/blog/code-review-etiquette
+
+5. **"Myths and Misconceptions of Code Reviews" – Dev.to by Josh Branchaud**  
+   *Real-world observations on what code reviews are *not* supposed to be, written by a senior developer.*  
+   https://dev.to/jbranchaud/myths-and-misconceptions-of-code-reviews-5e0o
+
