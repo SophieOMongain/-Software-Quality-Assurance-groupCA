@@ -7,7 +7,8 @@ This section of the Software Quality Handbook outlines best practices for writin
 ##  What's Included
 - An overview of why secure coding is essential
 - Do’s and don’ts for writing secure applications
-- A checklist for reviewing code with a security mindset
+- How to ensure security in the development lifecycle
+- Building secure software from day one 
 - Real-world references from developer experiences and industry standards
 
 ---
@@ -19,8 +20,7 @@ This section of the Software Quality Handbook outlines best practices for writin
 
 ---
 
-##  Main File
-- [`SECURE_CODING.md`](./SECURE_CODING.md) – Full guide on secure development practices
+
 
 
 
