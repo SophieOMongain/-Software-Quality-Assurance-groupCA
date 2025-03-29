@@ -70,7 +70,7 @@ At our company, we use code reviews to ensure our codebase remains clean, secure
 
 ---
 
-## 🔗 References and Further Reading
+##  References and Further Reading
 
 1. **[The Unseen Ripple Effect of Code Reviews on Developer Experience – Hatica](https://www.hatica.io/blog/how-code-reviews-impact-developer-experience/)**  
    Discusses how code reviews affect developer morale, growth, and team collaboration, based on real team experiences.
