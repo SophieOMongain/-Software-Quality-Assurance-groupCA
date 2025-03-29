@@ -77,37 +77,6 @@ Here’s how we do that:
 
 ---
 
-## Common Vulnerabilities to Avoid
-
-These are some of the most common — and dangerous — security issues that developers must avoid. Most of them appear regularly in the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
-
-- **SQL Injection (SQLi)**  
-  Failing to properly sanitize user input can allow attackers to execute malicious database queries.
-
-- **Cross-Site Scripting (XSS)**  
-  Allowing users to inject scripts (e.g., in forms, comments) which are then executed by other users.
-
-- **Broken Authentication**  
-  Poorly implemented login systems, token handling, or session management that allows attackers to impersonate users.
-
-- **Insecure File Uploads**  
-  Accepting uploaded files without checking type, size, and content — leading to remote code execution or malware.
-
-- **Hardcoded Secrets**  
-  Including API keys, passwords, or tokens in source code or config files.
-
-- **Using Outdated or Vulnerable Dependencies**  
-  Not updating packages or using libraries with known security issues.
-
-- **Insufficient Input Validation**  
-  Trusting user input too much can lead to logic flaws, data leaks, or crashes.
-
-- **Excessive Error Details in Production**  
-  Displaying full stack traces or error messages that reveal system details or paths.
-
-Avoiding these flaws doesn't require perfection — it requires awareness, good habits, and a checklist-driven mindset.
-
----
 
 ##  How We Ensure Security in the Development Lifecycle
 
