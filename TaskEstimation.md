@@ -45,8 +45,6 @@
 
 ---
 
-## **Main File**
-**TASK_ESTIMATION.md** – Full guide on task estimation in Scrum.
 
 -------------------------------------------------------------------------------------------
 here is my part added, check if this is okay. Thanks!
@@ -116,9 +114,6 @@ This section of the **Software Quality Handbook** outlines best practices for es
 - **Improvement Seekers**: Teams aiming to refine their estimation techniques and deliver projects more predictably.
 
 ---
-
-## **Main File**
-**TASK_ESTIMATION.md** – A comprehensive guide on task estimation in Scrum, including roles, communication, sprint planning, and best/worst practices.
 
 
 ##  References and Further Reading
