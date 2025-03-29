@@ -54,3 +54,9 @@ These are some of the most common — and dangerous — security issues that dev
 
 Avoiding these flaws doesn't require perfection — it requires awareness, good habits, and a checklist-driven mindset.
 
+
+
+Note for Sophie! 
+Further points to discuss: 
+How to ensure security in the development lifecycle 
+Do's and dont's of security practices :) 
