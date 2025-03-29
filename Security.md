@@ -56,18 +56,9 @@ Avoiding these flaws doesn't require perfection — it requires awareness, good 
 
 
 -------------------------------------------------------------------------------------------
-Here is the updated document with the points: How to ensure security in the development lifecycle and Do's and dont's of security practices included
+
 -------------------------------------------------------------------------------------------
 
-# Security and Secure Coding Practices
-
-## Introduction
-
-Security isn't just a final step — it's a mindset. Writing secure code means actively defending against threats, protecting user data, and building trust. In a fast-paced development environment, it’s easy to prioritize speed over safety, but even small mistakes can lead to major vulnerabilities.
-
-This section outlines how we build secure software from the start, and the most common security flaws developers should avoid.
-
----
 
 ## Building Secure Software from Day One
 
