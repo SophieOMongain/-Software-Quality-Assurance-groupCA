@@ -43,7 +43,6 @@ This section of the **Software Quality Handbook** outlines best practices for es
 - **Developers & Project Managers:** Individuals involved in sprint planning and task allocation.
 - **Improvement Seekers:** Teams aiming to enhance their estimation techniques and project delivery.
 
-- 
 
 ### **Roles in Agile Teams**
 - **Developers / Team Members**
