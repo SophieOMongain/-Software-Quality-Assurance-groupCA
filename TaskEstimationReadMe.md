@@ -19,5 +19,4 @@
 
 ---
 
-## **Main File**
-**TASK_ESTIMATION.md** – Full guide on task estimation in Scrum.
+
