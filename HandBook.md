@@ -165,3 +165,13 @@ Accurate task estimation is vital for effective sprint planning and successful p
 - **Over-Precision:** Avoid attempting to predict exact hours for tasks; this can lead to false confidence and rigidity in planning.
 - **Excluding Key Members:** Ensure that every team member, especially those with critical domain knowledge, participates in the estimation process.
 - **Rushing the Process:** Allocate adequate time for thorough discussion of uncertainties and risks to avoid oversimplified estimates.
+  
+## References and Further Reading
+
+- [Scrum Forum: Should we estimate our tasks](https://www.scrum.org/forum/scrum-forum/58252/should-we-estimate-our-tasks)
+- [LinkedIn Advice: What factors should you consider when estimating?](https://www.linkedin.com/advice/0/what-factors-should-you-consider-when-estimating-pex8c)
+- [Quora: What are the best practices for estimating work effort in Scrum?](https://www.quora.com/What-are-the-best-practices-for-estimating-work-effort-in-Scrum)
+- [Reddit: User Story Task Estimation](https://www.reddit.com/r/agile/comments/1afv1iq/user_story_task_estimation/)
+- [Blurify: 7 Ways to Avoid Points Inflation When Estimating Tasks in Scrum](https://blurify.com/blog/7-ways-to-avoid-points-inflation-when-estimating-tasks-in-scrum/#:~:text=The%20task%20should%20be%20divided,the%20entire%20project%20implementation%20period.)
+
+-------------------------------------------------------------------------------------------------------
