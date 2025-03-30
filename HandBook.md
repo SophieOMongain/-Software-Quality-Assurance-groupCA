@@ -37,6 +37,23 @@ Our typical code review process includes several workflows tailored to different
 - **Standard PR Workflow:** A developer submits a focused pull request, which is assigned to one or more reviewers. Reviewers then provide detailed feedback, and the developer revises the code accordingly. This iterative process continues until the review is complete and the PR is merged.
 - **Collaborative Review Sessions:** For more complex changes, we hold real-time review sessions where multiple team members discuss the code together, clarifying uncertainties and reaching a consensus on improvements.
 - **Asynchronous Reviews:** In distributed teams, reviews are often conducted asynchronously using inline comments on the pull request, ensuring that even team members in different time zones can contribute effectively.
+- 
+##  References and Further Reading
+
+1. **[The Unseen Ripple Effect of Code Reviews on Developer Experience – Hatica](https://www.hatica.io/blog/how-code-reviews-impact-developer-experience/)**  
+   Discusses how code reviews affect developer morale, growth, and team collaboration, based on real team experiences.
+
+2. **[Code Reviews: The Good, The Bad & The Ugh – LinkedIn Blog by Nic Pegg](https://www.linkedin.com/pulse/code-reviews-good-bad-ugh-nic-pegg-74q3c)**  
+   A personal and humorous take on the ups and downs of code reviews in modern software teams.
+
+3. **[How to Review Code Effectively: A GitHub Staff Engineer's Philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)**  
+   Practical advice from a GitHub engineer, with a focus on constructive feedback and avoiding common review pitfalls.
+
+4. **[How I Review Code as a Senior Developer – Medium by Vinh Nguyen](https://medium.com/@vndpal/how-i-review-code-as-a-senior-developer-for-better-results-47e979393483)**  
+   Personal techniques used by a senior dev to give meaningful feedback and support junior developers.
+
+5. **[Code Review Best Practices – Palantir Blog](https://blog.palantir.com/code-review-best-practices-19e02780015f)**  
+   Best practices rooted in real engineering culture at Palantir, including how to balance feedback and mentorship.
 
 -------------------------------------------------------------------------------------------------------
 
