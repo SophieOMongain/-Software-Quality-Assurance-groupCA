@@ -6,7 +6,7 @@ Welcome to the Software Quality Handbook – your quick-reference guide to build
 2. **Security and Secure Coding Practices**
 3. **Task Estimation in Scrum**
 
----
+-------------------------------------------------------------------------------------------------------
 
 ## 1. Code Reviews
 
@@ -38,17 +38,8 @@ Our typical code review process includes several workflows tailored to different
 - **Collaborative Review Sessions:** For more complex changes, we hold real-time review sessions where multiple team members discuss the code together, clarifying uncertainties and reaching a consensus on improvements.
 - **Asynchronous Reviews:** In distributed teams, reviews are often conducted asynchronously using inline comments on the pull request, ensuring that even team members in different time zones can contribute effectively.
 
-### Diagram
-Below is a diagram that captures our standard code review workflow:
+-------------------------------------------------------------------------------------------------------
 
-```mermaid
-flowchart TD
-    A[Developer submits PR] --> B[Assign Reviewers]
-    B --> C{Review Process}
-    C -- Feedback Provided --> D[Developer Updates Code]
-    D --> C
-    C -- Final Approval --> E[PR Merged]
-    
 ## 2. Security and Secure Coding Practices
 
 ## Introduction
@@ -113,7 +104,8 @@ Embedding security into every phase of the development lifecycle is key to build
 - [A Personal Journey into Secure Coding Practices – Dev.to](https://dev.to/example/secure-coding-journey)
 - [OWASP Top 10 – The Most Critical Web Application Security Risks](https://owasp.org/www-project-top-ten/)
 
-*(Approximately 650 words)*
+
+-------------------------------------------------------------------------------------------------------
 
 # 3. Task Estimation in Scrum
 
@@ -156,13 +148,3 @@ Accurate task estimation is vital for effective sprint planning and successful p
 - **Over-Precision:** Avoid attempting to predict exact hours for tasks; this can lead to false confidence and rigidity in planning.
 - **Excluding Key Members:** Ensure that every team member, especially those with critical domain knowledge, participates in the estimation process.
 - **Rushing the Process:** Allocate adequate time for thorough discussion of uncertainties and risks to avoid oversimplified estimates.
-
-### Diagram
-Below is a diagram illustrating our typical task estimation workflow:
-```mermaid
-flowchart LR
-    A[User Story] --> B[Break Down Tasks]
-    B --> C[Collaborative Estimation]
-    C --> D[Sprint Planning]
-    D --> E[Feedback & Refinement]
-
