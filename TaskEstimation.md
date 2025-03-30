@@ -92,12 +92,6 @@ This section of the **Software Quality Handbook** outlines best practices for es
   - **Excluding Key Team Members**: Leaving out stakeholders (e.g., testers, designers) can result in incomplete estimates.  
   - **Rushing Through Sessions**: Not discussing potential risks or complexities thoroughly, leading to unrealistic estimates.
 
----
-
-## **Who It's For**
-- **Scrum Teams & Agile Practitioners**: Those looking to enhance estimation accuracy in sprint planning.  
-- **Developers & Project Managers**: Anyone involved in creating and allocating tasks within a sprint.  
-- **Improvement Seekers**: Teams aiming to refine their estimation techniques and deliver projects more predictably.
 
 ---
 
