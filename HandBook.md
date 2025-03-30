@@ -37,7 +37,7 @@ Our typical code review process includes several workflows tailored to different
 - **Standard PR Workflow:** A developer submits a focused pull request, which is assigned to one or more reviewers. Reviewers then provide detailed feedback, and the developer revises the code accordingly. This iterative process continues until the review is complete and the PR is merged.
 - **Collaborative Review Sessions:** For more complex changes, we hold real-time review sessions where multiple team members discuss the code together, clarifying uncertainties and reaching a consensus on improvements.
 - **Asynchronous Reviews:** In distributed teams, reviews are often conducted asynchronously using inline comments on the pull request, ensuring that even team members in different time zones can contribute effectively.
-- 
+  
 ##  References and Further Reading
 
 1. **[The Unseen Ripple Effect of Code Reviews on Developer Experience – Hatica](https://www.hatica.io/blog/how-code-reviews-impact-developer-experience/)**  
