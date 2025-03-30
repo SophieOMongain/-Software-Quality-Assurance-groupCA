@@ -82,27 +82,27 @@ Here’s how we do that:
 
 Here’s how we ensure security throughout the lifecycle:
 
-### 🔹 Planning Phase
+### Planning Phase
 - Conduct **threat modeling sessions** for new features
 - Define **security requirements** alongside functional ones
 - Assign a “security champion” for each major feature
 
-### 🔹 Development Phase
+### Development Phase
 - Follow **secure coding guidelines** based on OWASP and industry best practices
 - Use **code linters** and **static analysis tools** (e.g. SonarQube, Snyk, CodeQL)
 - Avoid hardcoded secrets (use environment variables or secret managers)
 
-### 🔹 Code Review Phase
+### Code Review Phase
 - Use a **security checklist** in every PR review
 - Watch for anti-patterns like input trust, logic gaps, or lack of validation
 - Encourage pair programming or peer reviews for sensitive logic
 
-### 🔹 Testing Phase
+### Testing Phase
 - Run **automated security scans** (static/dynamic tools)
 - Perform **fuzz testing** or **input validation tests** for critical paths
 - Simulate basic **attack scenarios** to confirm security behavior
 
-### 🔹 Deployment Phase
+### Deployment Phase
 - Use **CI/CD pipelines** that enforce security checks before merging
 - Store credentials and tokens securely (e.g. GitHub Secrets, AWS Secrets Manager)
 - Enable logging and monitoring for **security anomalies** in production
